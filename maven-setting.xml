@@ -6,7 +6,7 @@
     <mirror>
       <id>localopenshift</id>
       <name>localmirror</name>
-      <url>http://nexus-test-cicd.127.0.0.1.nip.io/nexus/content/repositories/central/</url>
+      <url>http://172.30.131.197:8081/nexus/content/repositories/central/</url>
       <mirrorOf>central</mirrorOf>
     </mirror>
   </mirrors>
